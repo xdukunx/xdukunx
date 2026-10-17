@@ -1,0 +1,11 @@
+{
+  "type": "normal",
+  "fileName": "profile-phantom.svg",
+  "backgroundColor": "#140b0d",
+  "foregroundColor": "#f5eeee",
+  "strongColor": "#ff5a74",
+  "weakColor": "#b9aaac",
+  "radarColor": "#e31837",
+  "growingAnimation": true,
+  "contribColors": ["#2a1a1d", "#5c1622", "#8a1021", "#c4122f", "#ff2d4f"]
+}

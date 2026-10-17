@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 108 108" width="108" height="108" role="img" aria-label="Cd — Code">
+<title>Cd · Code</title>
+<style>
+.ring { animation: spin 5.4s linear infinite; transform-origin: 86px 88px; }
+.pop { animation: pop .5s 0.2s cubic-bezier(.2,.9,.2,1.3) both; transform-origin: 50px 50px; }
+@keyframes spin { to { transform: rotate(360deg); } }
+@keyframes pop { from { opacity: 0; transform: scale(.6) rotate(-10deg); } }
+@media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+</style>
+<g class="pop">
+<rect x="7" y="7" width="98" height="98" fill="#e31837"/>
+<rect x="1.5" y="1.5" width="98" height="98" fill="#fff" stroke="#140b0d" stroke-width="3"/>
+<g class="ring">
+<circle cx="86" cy="88" r="34" fill="none" stroke="#e31837" stroke-width="1.5" opacity=".55"/>
+<circle cx="120" cy="88" r="3.5" fill="#e31837"/>
+</g>
+<rect x="1.5" y="1.5" width="98" height="98" fill="none" stroke="#140b0d" stroke-width="3"/>
+<text x="10" y="20" font-family="'JetBrains Mono', Consolas, 'SF Mono', Menlo, monospace" font-size="11" fill="#140b0d">2</text>
+<text x="10" y="66" font-family="'Arial Black', 'Helvetica Neue', Arial, sans-serif" font-size="40" font-weight="900" letter-spacing="-2" fill="#140b0d">Cd</text>
+<text x="10" y="88" font-family="'Arial Black', 'Helvetica Neue', Arial, sans-serif" font-size="11" font-weight="700" fill="#140b0d">Code</text>
+</g>
+</svg>
