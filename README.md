@@ -11,7 +11,6 @@
 <p align="center">
   <a href="https://dhana-site.vercel.app"><img src="https://img.shields.io/badge/site-dhana--site.vercel.app-E31837?style=for-the-badge&labelColor=140B0D" alt="Website"></a>
   <img src="https://img.shields.io/badge/based_in-Surabaya_%C2%B7_GMT%2B7-F5EEEE?style=for-the-badge&labelColor=140B0D" alt="Surabaya, GMT+7">
-  <img src="https://komarev.com/ghpvc/?username=xdukunx&style=for-the-badge&color=E31837&label=VISITORS" alt="Profile views">
 </p>
 
 ### `> whoami`
